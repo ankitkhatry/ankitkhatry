@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, C, CSS and JavaScript.**
 
-- 👨‍💻 All of my projects are available at [ankitak.com.np](ankitak.com.np)
+- 👨‍💻 All of my projects are available at <a href="https://www.ankitak.com.np" target="blank">
 
 - 📫 How to reach me **info.ankitkhatry@gmail.com**
 
